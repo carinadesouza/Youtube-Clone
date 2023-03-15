@@ -174,7 +174,10 @@ body{
 }
 
 
-
+i{
+   font-size: large;
+    width: 40px;
+}
 .filter-options{
     flex: 0 0 auto;
     padding: 10px 20px;
